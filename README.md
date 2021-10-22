@@ -6,5 +6,5 @@
 * I'm not a lizard person. I can confirm this as of the end of 2018.
 
 <p align="center">
-  <img src="https://eleventy-site-api.herokuapp.com/quote/random/" alt="" />  
+  <img src="https://eleventy-site-api.herokuapp.com/quote/random/?orientations=landscape" alt="" />  
 </p>

@@ -1,6 +1,9 @@
-# I'm Max Antonucci
+# Max Antonucci
 
-* I'm a front-end engineer focusing on accessibility, and currently working at [AgileSix](https://agile6.com/).
-* [I've got a blog where I write about code, lessons, books, and random musings](https://www.maxwellantonucci.com/).
-* My hobbies are reading, writing, drawing, crafting, and a little gaming.
-* I'm not a lizard person. I can confirm this as of the end of 2018.
+**I make the web functional and pretty**
+
+Hello Github! I'm a full-stack developer with nearly a decade of experience on the front-end, the back-end, design systems, and web accessibility.
+
+* My daily languages are HTML5, CSS3, JavaScript, and Ruby.
+* My favorite tools are React, Ruby on Rails, Ember.JS, WordPress, Drupal, and Eleventy.
+* My non-coding hobbies are reading, drawing, traveling, and spending time with my wife.

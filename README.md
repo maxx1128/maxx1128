@@ -1,3 +1,5 @@
+# Hello, I'm Max Antonucci
+
 I've spent over a decade building software for people who genuinely need it to work: veterans finding healthcare, citizens navigating city services, and patients managing their care.
 
 I'm a Senior Full-stack Engineer specializing in React, TypeScript, JavaScript, Ruby on Rails, and scalable web applications. My experience includes:
